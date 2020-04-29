@@ -1,4 +1,5 @@
 # Jettison
+[![Build](https://github.com/luno/jettison/workflows/Go/badge.svg?branch=master)](https://github.com/luno/jettison/actions?query=workflow%3AGo)
 [![Go Report Card](https://goreportcard.com/badge/github.com/luno/jettison?style=flat-square)](https://goreportcard.com/report/github.com/luno/jettison)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/github.com/luno/jettison)
 
